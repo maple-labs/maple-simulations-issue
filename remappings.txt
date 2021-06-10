@@ -1,0 +1,8 @@
+ds-test/=lib/ds-test/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+core/=lib/maple-core/contracts/core/
+external-interfaces/=lib/maple-core/contracts/external-interfaces/
+libraries/=lib/maple-core/contracts/libraries/
+test/=lib/maple-core/contracts/test/
+module/maple-token/=lib/maple-core/module/maple-token/
+lib/ds-test/contracts=lib/ds-test/src

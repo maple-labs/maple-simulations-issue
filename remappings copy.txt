@@ -1,0 +1,4 @@
+maple-core/=lib/maple-core/contracts/
+maple-token/=lib/maple-token/contracts/
+ds-test/=lib/ds-test/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
